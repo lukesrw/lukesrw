@@ -4,7 +4,7 @@ I'm a software engineer from the United Kingdom, working on Node.js projects in 
 
 ## JSite
 
-I'm building a collection of Node.js packages that support the creation great experiences, the list so far:
+I'm building a collection of Node.js packages that support the creation of great experiences, the list so far:
 
 - JSite Server* - a modular and expandable Node.js HTTP server  
 - JSite Database* - an SCD 4+ database-agnostic management system  
