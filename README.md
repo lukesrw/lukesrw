@@ -11,7 +11,7 @@ I'm building a collection of Node.js packages that support the creation of great
 - [JSite Parse](https://github.com/lukesrw/jsite-parse) - a flexible parser for HTTP request data  
 - [JSite Cache](https://github.com/lukesrw/jsite-cache)** - a caching utility for handling run-time operations
 - [JSite Data](https://github.com/lukesrw/jsite-data) - an extendable class that forces strict property types at run-time
-- JSite Utils* - a collection of frequently used Node.js utilities
+- [JSite Utils](https://github.com/lukesrw/jsite-utils) - a collection of frequently used Node.js utilities
 
 Previously using JavaScript, I am now moving my projects to GitHub and porting them to TypeScript.
 
