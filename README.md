@@ -1,16 +1,19 @@
-### Hi there 👋
+# Quack 🦆
 
-<!--
-**lukesrw/lukesrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from the United Kingdom, working on Node.js projects in my spare time.
 
-Here are some ideas to get you started:
+## JSite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building a collection of Node.js packages that support the creation great experiences, the list so far:
+
+- JSite Server* - a modular and expandable Node.js HTTP server  
+- JSite Database* - an SCD 4+ database-agnostic management system  
+- [JSite Parse](https://github.com/lukesrw/jsite-parse) - a flexible parser for HTTP request data  
+- [JSite Cache](https://github.com/lukesrw/jsite-cache)** - a caching utility for handling run-time operations
+- JSite Data* - an extendable class that forces strict property types at run-time
+- JSite Utils* - a collection of frequently used Node.js utilities
+
+Previously using JavaScript, I am now moving my projects to GitHub and porting them to TypeScript.
+
+<sup>*code not yet on GitHub</sup>  
+<sup>**work in progress</sup>
