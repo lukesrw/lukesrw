@@ -18,3 +18,9 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 
 <sup>*code not yet on GitHub</sup>  
 <sup>**work in progress</sup>
+
+## Random
+
+...when not working on JSite, I make random things, such as:
+
+- [vmfunparser](https://github.com/lukesrw/vmfunparser) - a small package to convert JSON into [Valve Map Format](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
