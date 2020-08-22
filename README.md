@@ -2,7 +2,8 @@
 
 I'm a software engineer from the United Kingdom, working on Node.js projects in my spare time.
 
-## JSite
+## Projects
+### JSite
 
 I'm building a collection of Node.js packages that support the creation of great experiences, the list so far:
 
@@ -19,9 +20,15 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 <sup>*code not yet on GitHub</sup>  
 <sup>**work in progress</sup>
 
-## Random
+### Random
 
 ...when not working on JSite, I make random things, such as:
 
 - [vmfunparser](https://github.com/lukesrw/vmfunparser) - a small package to convert JSON into [Valve Map Format](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
 - [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful scripts to improve the functionality of [Scrap.tf](https://scrap.tf)
+
+## Templates
+
+Quick links to GitHub repository templates:
+
+- [TypeScript Template](https://github.com/lukesrw/template) - my template for quickly getting started with TypeScript projects
