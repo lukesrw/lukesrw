@@ -24,3 +24,4 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 ...when not working on JSite, I make random things, such as:
 
 - [vmfunparser](https://github.com/lukesrw/vmfunparser) - a small package to convert JSON into [Valve Map Format](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
+- [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful scripts to improve the functionality of [Scrap.tf](https://scrap.tf)
