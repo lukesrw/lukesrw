@@ -24,6 +24,7 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 
 ...when not working on JSite, I make random things, such as:
 
+- [Reverse Spellout](https://github.com/lukesrw/reverse-spellout) - PHP functions for converting text into numbers
 - [vmfunparser](https://github.com/lukesrw/vmfunparser) - a small package to convert JSON into [Valve Map Format](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
 - [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful scripts to improve the functionality of [Scrap.tf](https://scrap.tf)
 
@@ -31,4 +32,5 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 
 Quick links to GitHub repository templates:
 
-- [TypeScript Template](https://github.com/lukesrw/template) - my template for quickly getting started with TypeScript projects
+- [TypeScript Template](https://github.com/lukesrw/template) - my template for getting started with TypeScript projects
+- [Web Extensions Template](https://github.com/lukesrw/web-extensions-template) - my template for starting a new Web Extension
