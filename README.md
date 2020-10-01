@@ -25,6 +25,7 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 ...when not working on JSite, I make random things, such as:
 
 - [Reverse Spellout](https://github.com/lukesrw/reverse-spellout) - PHP functions for converting text into numbers
+- [parseUserAgent](https://github.com/lukesrw/parseUserAgent) - robust solution for parsing a HTTP User Agent header
 - [vmfunparser](https://github.com/lukesrw/vmfunparser) - a small package to convert JSON into [Valve Map Format](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
 - [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful scripts to improve the functionality of [Scrap.tf](https://scrap.tf)
 
