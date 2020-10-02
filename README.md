@@ -2,7 +2,7 @@
 
 I'm a software engineer from the United Kingdom, working on Node.js projects in my spare time.
 
-## Projects
+## Packages
 ### JSite
 
 I'm building a collection of Node.js packages that support the creation of great experiences, the list so far:
@@ -20,14 +20,26 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 <sup>*code not yet on GitHub</sup>  
 <sup>**work in progress</sup>
 
-### Random
+### parseUserAgent/parse-user-agent
 
-...when not working on JSite, I make random things, such as:
+I've written a robust function for PHP/TypeScript to parse a HTTP user agent into browser name/version.
+
+- [GitHub Repository](https://github.com/lukesrw/parseUserAgent) - browse the code, maybe contribute?
+- [NPM Package](https://www.npmjs.com/package/parse-user-agent) - download through NPM, try it out?
+
+### vmfunparser
+
+I needed to turn JSON data into [Valve Map Format](https://developer.valvesoftware.com/wiki/Valve_Map_Format) (VMF) data, so I wrote a small package to do just that.
+
+- [GitHub Repository](https://github.com/lukesrw/vmfunparser) - browse the code, raise an issue?
+- [NPM Package](https://www.npmjs.com/package/vmfunparser) - download through NPM, hunt for bugs?
+
+### Other
+
+...when not working on packages, I make random things, such as:
 
 - [Reverse Spellout](https://github.com/lukesrw/reverse-spellout) - PHP functions for converting text into numbers
-- [parseUserAgent](https://github.com/lukesrw/parseUserAgent) - robust solution for parsing a HTTP User Agent header
-- [vmfunparser](https://github.com/lukesrw/vmfunparser) - a small package to convert JSON into [Valve Map Format](https://developer.valvesoftware.com/wiki/Valve_Map_Format)
-- [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful scripts to improve the functionality of [Scrap.tf](https://scrap.tf)
+- [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful browser extension & scripts to add functionality to [Scrap.tf](https://scrap.tf)
 
 ## Templates
 
