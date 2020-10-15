@@ -22,7 +22,7 @@ Previously using JavaScript, I am now moving my projects to GitHub and porting t
 
 ### parseUserAgent/parse-user-agent
 
-I've written a robust function for PHP/TypeScript to parse a HTTP user agent into browser name/version.
+I've written a robust function for PHP/TypeScript to parse a HTTP user agent into browser & operating system name and version.
 
 - [GitHub Repository](https://github.com/lukesrw/parseUserAgent) - browse the code, maybe contribute?
 - [NPM Package](https://www.npmjs.com/package/parse-user-agent) - download through NPM, try it out?
