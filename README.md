@@ -38,6 +38,7 @@ I needed to turn JSON data into [Valve Map Format](https://developer.valvesoftwa
 
 - [Reverse Spellout](https://github.com/lukesrw/reverse-spellout) - PHP functions for converting text into numbers
 - [Among Us](https://github.com/lukesrw/among-us) - Custom avatar maker for the game "Among Us"
+- [Codenames Assistant](https://github.com/lukesrw/codenames-assistant) - browser extension adding features to [Codenames](https://codenames.game/)
 - [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful browser extension & scripts to add functionality to [Scrap.tf](https://scrap.tf)
 
 ## Templates
