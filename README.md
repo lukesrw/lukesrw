@@ -1,6 +1,12 @@
 # Quack 🦆
 
-I'm a software engineer from the United Kingdom, working on Node.js projects in my spare time.
+I'm a software engineer from the United Kingdom, working on various projects in my spare time.
+
+## Websites
+### ["Among Us" Avatar Maker](https://among-us.lukesrw.co.uk)
+Custom avatar maker for the game "Among Us"
+- [GitHub Repository](https://github.com/lukesrw/among-us) - browse the code, contribute a hat?
+- [Website](https://among-us.lukesrw.co.uk) - view the website, make an avatar.
 
 ## Packages
 ### JSite
@@ -13,8 +19,6 @@ I'm building a collection of Node.js packages that support the creation of great
 - [JSite Data](https://github.com/lukesrw/jsite-data) - an extendable class that forces strict property types at run-time
 - [JSite Utils](https://github.com/lukesrw/jsite-utils) - a collection of frequently used Node.js utilities
 - [JSite Container](https://github.com/lukesrw/jsite-container) - a structure for creating modular event-based projects
-
-Previously using JavaScript, I am now moving my projects to GitHub and porting them to TypeScript.
 
 <sup>*work in progress</sup>
 
@@ -37,9 +41,18 @@ I needed to turn JSON data into [Valve Map Format](https://developer.valvesoftwa
 ...when not working on packages, I make random things, such as:
 
 - [Reverse Spellout](https://github.com/lukesrw/reverse-spellout) - PHP functions for converting text into numbers
-- [Among Us](https://github.com/lukesrw/among-us) - Custom avatar maker for the game "Among Us"
-- [Codenames Assistant](https://github.com/lukesrw/codenames-assistant) - browser extension adding features to [Codenames](https://codenames.game/)
-- [Scrap.tf Scripts](https://github.com/lukesrw/scrap-tf) - useful browser extension & scripts to add functionality to [Scrap.tf](https://scrap.tf)
+
+## Web Extensions
+### Codenames Assistant
+Browser web extension adding features to [Codenames](https://codenames.game/)
+- [GitHub Repository](https://github.com/lukesrw/codenames-assistant) - browse the code, suggest a feature?
+- [Chrome Extension](https://chrome.google.com/webstore/detail/codenames-assistant/caeoldohbmnkpkndeephoanbkhjccgbm), download for Chrome, have fun!
+- [Firefox Extension](https://addons.mozilla.org/en-GB/firefox/addon/codenames-assistant/) - or download for Firefox, have fun!
+
+### Scrap.tf Scripts
+Browser web extension & scripts to add functionality to [Scrap.tf](https://scrap.tf)
+- [GitHub Repository](https://github.com/lukesrw/scrap-tf) - browse the code, report a bug?
+- [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/scrap-tf-functions/) - download for Firefox, trade away.
 
 ## Templates
 
