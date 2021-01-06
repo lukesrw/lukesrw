@@ -3,7 +3,7 @@
 I'm a software engineer from the United Kingdom, working on various projects in my spare time.
 
 ## Websites
-### ["Among Us" Avatar Maker](https://among-us.lukesrw.co.uk)
+### "Among Us" Avatar Maker
 Custom avatar maker for the game "Among Us"
 - [GitHub Repository](https://github.com/lukesrw/among-us) - browse the code, contribute a hat?
 - [Website](https://among-us.lukesrw.co.uk) - view the website, make an avatar.
