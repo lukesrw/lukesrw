@@ -58,5 +58,6 @@ Browser web extension & scripts to add functionality to [Scrap.tf](https://scrap
 
 Quick links to GitHub repository templates:
 
-- [TypeScript Template](https://github.com/lukesrw/template) - my template for getting started with TypeScript projects
+- [TypeScript Template](https://github.com/lukesrw/template) - my template for starting a new TypeScript project
 - [Web Extensions Template](https://github.com/lukesrw/web-extensions-template) - my template for starting a new Web Extension
+- [Tabletop Simulator Template](https://github.com/lukesrw/tabletop-simulator-template) - my template for starting a new Tabletop Simulator game
