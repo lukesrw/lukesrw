@@ -49,7 +49,7 @@ Browser web extension adding features to [Codenames](https://codenames.game/)
 - [Chrome Extension](https://chrome.google.com/webstore/detail/codenames-assistant/caeoldohbmnkpkndeephoanbkhjccgbm), download for Chrome, have fun!
 - [Firefox Extension](https://addons.mozilla.org/en-GB/firefox/addon/codenames-assistant/) - or download for Firefox, have fun!
 
-### Scrap.tf Scripts
+### Scrap.tf Functions
 Browser web extension & scripts to add functionality to [Scrap.tf](https://scrap.tf)
 - [GitHub Repository](https://github.com/lukesrw/scrap-tf) - browse the code, report a bug?
 - [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/scrap-tf-functions/) - download for Firefox, trade away.
