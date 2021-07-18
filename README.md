@@ -41,6 +41,7 @@ I needed to turn JSON data into [Valve Map Format](https://developer.valvesoftwa
 ...when not working on packages, I make random things, such as:
 
 - [Reverse Spellout](https://github.com/lukesrw/reverse-spellout) - PHP functions for converting text into numbers
+- [Separating Axis Theorem](https://github.com/lukesrw/separating-axis-theorem) - JS canvas/context manipuliation and collision detection
 
 ## Web Extensions
 ### Codenames Assistant
