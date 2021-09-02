@@ -22,6 +22,13 @@ I'm building a collection of Node.js packages that support the creation of great
 
 <sup>*work in progress</sup>
 
+### MDDatabase
+
+I wrote a middleware for viewing, managing, and creating SQL table schema and data from Markdown files.
+
+- [GitHub Repository](https://github.com/lukesrw/md-database) - browse the code, make an improvement?
+- [NPM Package](https://www.npmjs.com/package/md-database) - download through NPM, make something great?
+
 ### parseUserAgent/parse-user-agent
 
 I've written a robust function for PHP/TypeScript to parse a HTTP user agent into browser & operating system name and version.
