@@ -5,8 +5,8 @@ I'm a software engineer from the United Kingdom, working on various projects in 
 ## Applications
 ### SQL Converter
 Tool to quick and painlessly convert between SQL, JS, and PHP
-- [GitHub Repository](https://github.com/lukesrw/sql-converter) - browse the code, contribute a hat?
-- [Website](https://sql.lukesrw.co.uk) - view the website, make an avatar.
+- [GitHub Repository](https://github.com/lukesrw/sql-converter) - browse the code, contribute a feature?
+- [Website](https://sql.lukesrw.co.uk) - view the website, make your life easier.
 
 ## Packages
 ### JSite
